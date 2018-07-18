@@ -3,15 +3,15 @@ The Stat Crew System for Basketball, the current software used by the UW Athleti
 
 This project was completed by myself and six other team members for a CS 506 Software Engineering project.  This class teaches software engineering principles while having students spend an entire semester in teams building a software application starting with the planning stages and eventually releasing a demo at the end of the semester.  Each student had to pitch a project idea during the first week and I am the one that proposed the idea of a basketball scoring app.  Enough people voted on it and were assigned to the team, so it was great to see that others had an interest in the idea, which was inspired by my job at the UW Athletic Department where I set up statisticians' scoring computers at basketball, football and hockey games.  This class was my first experience in a group project, which was challening but overall very rewarding.  I enjoyed all of my group members and we all worked hard to complete the project.
 
-##Old Software
+## Old Software
 ![Old Software](old_software.png)
 This is what the current software being used to record and store in-game stats at UW basketball games looks like.
 
-##Our Software
+## Our Software
 ![Our Software](our_software.png)
 This is what our solution looks like!
 
-##Team Picture
+## Team Picture
 ![Team Picture](team_picture.jpg)
 Our team! From left to right: Brett, Sara, Me (Nick), Noah, Doug, Damon, Nate
 
